@@ -1,0 +1,14 @@
+{
+  "index": {
+    "method": "get",
+    "url": "./static/data.json"
+  },
+  "case": {
+    "method": "get",
+    "url": "./static/case.json"
+  },
+  "caseDetail": {
+    "method": "get",
+    "url": "../static/caseDetail.json"
+  }
+}
