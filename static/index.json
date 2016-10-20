@@ -1,0 +1,112 @@
+{
+    "title": [
+        "dota",
+        "炉石传说",
+        "英雄联盟",
+        "守望先锋",
+        "魔兽世界",
+        "单机游戏",
+        "音乐影视",
+        "pc游戏"
+    ],
+    "hosts": [
+        {
+            "imgUrl": "../../../static/images/ranking_list_1.jpg",
+            "name": "YY主播：李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_2.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_3.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_4.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+       {
+            "imgUrl": "../../../static/images/ranking_list_1.jpg",
+            "name": "YY主播：李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_2.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_3.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_4.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        }
+    ],
+	"newhosts": [
+        {
+            "imgUrl": "../../../static/images/ranking_list_4.jpg",
+            "name": "YY主播：李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_3.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_2.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_1.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+       {
+            "imgUrl": "../../../static/images/ranking_list_4.jpg",
+            "name": "YY主播：李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_3.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_2.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        },
+        {
+            "imgUrl": "../../../static/images/ranking_list_1.jpg",
+            "name": "YY主播：李晨的冰冰李晨的冰冰李晨的冰冰",
+            "level": "白金",
+            "price": "233元/小时"
+        }
+    ]
+}

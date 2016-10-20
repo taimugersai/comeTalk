@@ -1,11 +1,11 @@
 import Vue from 'vue'
 import App from './App'
 
-import Index from './view/Index'
-import Home from './view/Home'
-import Contact from './view/Contact'
-import Case from './view/Case'
-import CaseDetail from './view/Case-detail'
+import Index from './view/index'
+import hostInfo from './view/hostInfo'
+import orderInfo from './view/orderInfo'
+import orderList from './view/orderList'
+import placeOrder from './view/placeOrder'
 
 import VueHead from 'vue-head'
 import lazyimg from "vue-lazyload-img"
@@ -65,16 +65,19 @@ FastClick.attach(document.body)
 
 router.map({
 	'/': {
-      component: Home
+      component: Index
   },
-	'/case': {
-      component: Case,
+	'/hostInfo': {
+      component: hostInfo,
   },
-  '/case-detail/:caseId': {
-      component: CaseDetail,
+  '/orderInfo': {
+      component: orderInfo,
   },
-	'/contact': {
-      component: Contact
+	'/orderList': {
+      component: orderList
+  },
+	'/placeOrder': {
+      component: placeOrder
   }
 })
 router.start(App, '#app')
