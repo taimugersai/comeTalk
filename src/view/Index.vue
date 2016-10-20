@@ -116,13 +116,13 @@ export default {
   height: 45px;
   position: relative;
   left:10px;
-  width: 700px;
+  width: 900px;
   overflow:hidden;
   color:white;
 }
 .box1-item {
   margin-top:10px;
-  width: 78px;
+  width: 100px;
   height: 70%;
   display:inline-block;
   margin-left: 8px;
@@ -153,7 +153,8 @@ export default {
   margin-left:7px;
   overflow:hidden;
   font-family:"微软雅黑";
-  box-shadow: 3px 3px 3px black;
+  border-radius:4px;
+  box-shadow: 4px 4px 4px black;
   margin-top:20px;
 }
 .contain a{
